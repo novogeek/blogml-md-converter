@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blog root-url="/" date-created="2012-09-22T12:45:59" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.blogml.com/2006/09/BlogML">
+  <title type="text"><![CDATA[NovoGeek.com - Krishna's weblog]]></title>
+  <sub-title type="text"><![CDATA[Technical insights of a modern web geek :)]]></sub-title>
+  <authors>
+    <author id="novogeek" date-created="2012-09-21T15:43:48" date-modified="2012-09-21T15:43:48" approved="true" email="krishnachaitanya.t@live.com">
+      <title type="text"><![CDATA[novogeek]]></title>
+    </author>
+  </authors>
+  <extended-properties>
+    <property name="CommentModeration" value="Anonymous" />
+    <property name="SendTrackback" value="Yes" />
+  </extended-properties>
+  <categories>
+    <category id="c223353c-1aef-4a46-afd1-cb61ab1a792d" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Blog]]></title>
+    </category>
+    <category id="19770e74-9ec9-4cde-b2ab-e5051aaaf348" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0" description="Posts about my adventures with BlogEngine.NET">
+      <title type="text"><![CDATA[BlogEngine.NET]]></title>
+    </category>
+    <category id="9dad2aee-0204-42b6-a86d-337ce1a571bb" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[security]]></title>
+    </category>
+    <category id="4400789a-98e7-4e36-a791-f5ff167e803c" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[tech]]></title>
+    </category>
+    <category id="0d726842-788c-431a-a903-27c3188a3a24" date-created="0001-01-01T00:00:00" date-modified="0001-01-01T00:00:00" approved="true" parentref="0">
+      <title type="text"><![CDATA[Web 2.0 ]]></title>
+    </category>
+  </categories>
+  <posts>
+    <post id="de9a2efe-6e24-455f-a299-926e0218bb89" date-created="2012-08-12T19:38:00" date-modified="2012-09-03T19:56:17" approved="true" post-url="/post/Presentation-on-HTML5-Security-Part-2-OWASP-Hyd.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Presentation on HTML5 Security, Part-2 - OWASP Hyd]]></title>
+      <content type="text">
+        <![CDATA[<p>In continuation&nbsp;my previous talk on HTML5 Security at OWASP Hyd, I have covered few more interesting concepts at&nbsp;<a href="http://owasphydaug2012.eventbrite.com/" target="_blank">OWASP Hyd August meet</a>.&nbsp;Slides are more or less the same as my previous session but it was more demo driven where I've shown known security problems and secure coding practices to be followed while using HTML5.&nbsp;</p>
+<div id="__ss_13022470" style="width: 425px; text-align: center;"><strong style="display:block;margin:12px 0 4px"><a title="Html5 security" href="http://www.slideshare.net/novogeek/html5-security-13022470">Html5 security</a></strong> 
+<object id="__sse13022470" width="425" height="355">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=html5security-krishna-120522003138-phpapp02&amp;stripped_title=html5-security-13022470&amp;userName=novogeek" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" />
+<param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=html5security-krishna-120522003138-phpapp02&amp;stripped_title=html5-security-13022470&amp;userName=novogeek" name="__sse13022470" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed>
+</object>
+<div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/novogeek">Krishna T</a>.</div>
+</div>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>
+<p>I've been committing some of the basic demos whenever I find time into my <a href="https://github.com/novogeek" target="_blank">github account</a>. I shall blog more about some interesting topics very soon.</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>]]>
+      </content>
+      <post-name type="text"><![CDATA[Presentation on HTML5 Security, Part-2 - OWASP Hyd]]></post-name>
+      <authors>
+        <author ref="novogeek" />
+      </authors>
+      <categories>
+        <category ref="9dad2aee-0204-42b6-a86d-337ce1a571bb" />
+        <category ref="4400789a-98e7-4e36-a791-f5ff167e803c" />
+      </categories>
+      <tags>
+        <tag ref="tech events" />
+        <tag ref="web security" />
+        <tag ref="HTML5" />
+        <tag ref="JavaScript" />
+      </tags>
+    </post>
+    <post id="b22ff298-ee6e-4dae-9c3c-3c107880e329" date-created="2012-07-18T16:32:00" date-modified="2012-07-19T21:04:39" approved="true" post-url="/post/A-note-on-JSONP-misconceptions-of-Cross-Origin-AJAX.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[A note on JSONP & misconceptions of Cross Origin AJAX]]></title>
+      <content type="text">
+        <![CDATA[<p align="justify">Web developers who have worked on accessing APIs using JavaScript would be very much familiar with the term &ldquo;JSONP&rdquo;. Many web devs whom I have met offline or in online discussion forums seem to have some misconceptions about JSONP. Below are some of the basic &amp; common definitions which I have come across:</p>
+<ul>
+<li>
+<div>JSONP is a technique to work with remote APIs</div>
+</li>
+<li>
+<div>It is nothing but Cross Origin AJAX</div>
+</li>
+<li>
+<div>If we add a query string like &ldquo;?callback=someCallback&rdquo; and fire jQuery&rsquo;s $.ajax or $.getJSON, what we are doing is nothing but a JSONP call.</div>
+</li>
+<li>
+<div>May be a slightly complicated definition: Cross origin AJAX is possible only when the response thrown is JavaScript</div>
+</li>
+<li>
+<div>and many more..</div>
+</li>
+</ul>
+<p align="justify">The truth in the above statements is very little and such definitions add more confusion, bringing in misconceptions. In my recent presentation &ldquo;<a href="http://www.novogeek.com/post/Browser-Internals-Content-Isolation-with-Same-Origin-Policy.aspx" target="_blank">Content Isolation with Same Origin Policy</a>&rdquo;, I put up the below slides (check slides 4 &amp; 5 in the ppt)</p>
+<p align="justify"><a href="http://novogeek.com/pics/articles/jsonp1.jpg" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" src="http://novogeek.com/pics/articles/jsonp1.jpg" border="0" alt="image" width="421" height="299" align="left" /></a></p>
+<p align="justify"><a href="http://novogeek.com/pics/articles/jsonp2.jpg" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" src="http://novogeek.com/pics/articles/jsonp2.jpg" border="0" alt="image" width="381" height="297" align="left" /></a></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">For all practical purposes, the first one is possible and second one is not. Apart from the tweaked definitions of JSONP as stated above, the below reasoning complicates the topic:</p>
+<ul>
+<li>
+<div>In the first case, the content requested is of the type &ldquo;text/javascript&rdquo; while in the second case it is HTML. So browsers look at content type of the response header and decide whether they should block the content or not (actually, a very good observation).</div>
+</li>
+<li>
+<div>There is a &ldquo;?callback=?&rdquo; parameter in the first case enables jQuery to make the cross origin call in the first case</div>
+</li>
+<li>
+<div>Server side framework should have special capabilities (Iike inbuilt serialization/deserialization) for the first case to work</div>
+</li>
+</ul>
+<p align="justify">I thought it would be nice to summarize few facts and hence this post. Read on.</p>
+<p align="justify"><strong>What's an Origin?</strong></p>
+<p align="justify">The combination of <strong><em>scheme://host:port</em></strong> is what browsers treat as an Origin. e.g., http://abc.com, https://abc.com, http://abc.com:81 belong to different origins as they differ in one of scheme, host or port. Remember that http://abc.om/user1 and http://abc.om/user2 are different URLs but not different origins. Also, a domain (http://abc.com) and its subdomain (http://sub.abc.com) belong to different origins (this particular restriction can be relaxed using a technique called <a href="http://en.wikipedia.org/wiki/Same_origin_policy#Additional_document.domain_logic" target="_blank">domain relaxation</a>, which is out of scope of this topic).</p>
+<p align="justify"><strong>Can my client script read your emails?</strong></p>
+<p align="justify">Browsers restrict JavaScript calls to server (read as AJAX) based on Origin. This is governed by a policy called Same Origin Policy. In other words, client script in your page can make calls only to your server (strictly speaking, origin). If this rule wasn&rsquo;t there, it would have been possible to write a script in some arbitrary web page which can read your web based email conversations.</p>
+<p align="justify"><strong>Cross Origin AJAX? Really?</strong></p>
+<p align="justify">For the reason stated above, a page can make an AJAX call to the same origin from which it originated. If I am allowed to coin an acronym stressing on the boundaries of AJAX, I would coin &ldquo;<em><strong>AJAX-FOO&rdquo;</strong></em>, which expands to &ldquo;Asynchronous JavaScript And XML For Own Origin&rdquo;. As soon as a new XMLHttpRequest is fired to a remote origin, browsers check the origin of the page with the destination of the request. If both are same, the call is allowed. Else, the call is blocked with an appropriate error message. So there is nothing like Cross Origin AJAX.</p>
+<p align="justify"><strong>Understanding JSONP (TL;DR: It&rsquo;s all about script tag hack!)</strong></p>
+<p align="justify">As they say, necessity is the mother of invention. When web2.0 APIs were introduced, they desperately wanted cross origin interactions. JSNOP was discovered as a hack/work-around to bypass the restrictions of Same Origin Policy.</p>
+<p align="justify">The idea behind it is very simple. Same Origin Policy doesn't apply for scripts (and a couple of other elements too). A &lt;script&gt; tag in a web page can load JavaScript from any origin (i.e., when you embed jQuery.js pointing to a CDN, loading from a remote origin is allowed). Using this loophole, one can create cross origin requests.</p>
+<p align="justify"><strong><em>Simple example to create your own JSONP service</em></strong></p>
+<p align="justify">1. Create a HTML page having two JavaScript files. In script1.js, create a function &ldquo;processData&rdquo;</p>
+<div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
+<pre id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 0em; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;"><span style="color: #0000ff">function</span> processData(data){ <br />    console.log(<span style="color: #006080">'Hello '</span>+data.firstName+<span style="color: #006080">' '</span>+data.lastName);<br />}</pre>
+<br /></div>
+<p align="justify">2. In script2.js execute the above function by passing valid JSON data:</p>
+<div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
+<pre id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 0em; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;">processData({firstName:<span style="color: #006080">'Krishna'</span>, lastName:<span style="color: #006080">'Chaitanya'</span>}); </pre>
+<br /></div>
+<p>3. When you load the page, both the script files load, code in the second file executes the function defined in the first file. This is an expected behavior.</p>
+<p>4. Create a file &ldquo;service.abc&rdquo; (yes, create it with this dummy extension. This is going to be your web service) and place it in the same folder. Open it and write the same code as in step 2. Now open your web server (IIS or your preferable one), go to your site, open mime types section and add a new mime type &ldquo;.abc&rdquo; having the mime type value &ldquo;text/javascript&rdquo;.</p>
+<p><img style="margin: 0px 10px 0px 0px" src="http://novogeek.com/pics/articles/jsonp-mime.jpg" alt="" /></p>
+<p>5. Now remove reference to &ldquo;script2.js&rdquo; and add a reference to this new file &ldquo;service.abc&rdquo; in the head section like this:</p>
+<div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
+<pre id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 0em; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;">&lt;script type=<span style="color: #006080">"text/javascript"</span> src=<span style="color: #006080">"service.abc"</span>&gt;&lt;/script&gt;</pre>
+<br /></div>
+<p>6. When you load the page now, you get the same behavior as that of script2. So far, everything is in the same origin. Place the file &ldquo;service.abc&rdquo; in another origin (simply create another website on a different port number-recollect that different ports means different origins) and reference it in script tag and the code still works.</p>
+<p>What you have done is, you have loaded content from a remote service via script tag injection. This is the essence of JSONP. The idea of having a random file format &ldquo;.abc&rdquo; is just to show that any file which can serve script content will hold good for this. You may use your &ldquo;.aspx&rdquo;, &ldquo;.asmx&rdquo;, &ldquo;.ashx&rdquo; or whatever to achieve this.</p>
+<p><em>Hence, <span style="text-decoration: underline;">JSONP is always a script Injection</span> and has nothing to do with XMLHttpRequest object and AJAX.</em></p>
+<p><strong>How JavaScript libraries like jQuery help (mislead) you</strong></p>
+<p align="justify">If you use libraries like jQuery, they give you a common syntax which works for AJAX as well as JSONP hack. They do a lot of work behind the screens to make a JSONP script injection</p>
+<div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
+<pre id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 0em; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;">$.getJSON(<span style="color: #006080">'http://graph.facebook.com/zuck?callback=?'</span>, <span style="color: #0000ff">function</span> (data) { <br />    console.log(data);<br />}</pre>
+<br /></div>
+<p align="justify">In the above API for Facebook, if the value for callback is given by the developer as &ldquo;<a href="https://graph.facebook.com/zuck?callback=fetch" target="_blank">https://graph.facebook.com/zuck?callback=fetch</a>&rdquo;, facebook returns json data by wrapping it in the function &ldquo;fetch&rdquo; (open the link in your browser and check the output. Note: IE will ask to save the response as ".js" file.). If the function name is omitted, jQuery handles it in an interesting/tricky manner. It takes the success callback as the function to be executed (similar to &ldquo;processData&rdquo; function as declared above), creates a random function name and assigns the callback to it. The server too responds by wrapping its json data in the random function name which it got from the request (see the first screenshot in this blog post). Once the http transaction is done, jQuery destroys the random function.</p>
+<p align="justify">(<strong>Note:</strong> To test the trick jQuery uses, I used burp proxy to intercept and pause the request sent by jQuery. While pausing, I typed jQuery&rsquo;s random function name in browser&rsquo;s console and it printed the definition of the function. After the response is received, I did the same and I got that function is undefined. This way I was able to deduce the trick jQuery uses for JSONP).</p>
+<p align="justify">In this process, jQuery does not fire an AJAX call. All it does is injection of script tag and serving javascript in its response. Since the syntax for AJAX and JSONP are maintained the same, web developers tend to confuse about JSONP.</p>
+<p align="justify"><strong>So what mime-type should be served for a successful JSONP request?</strong></p>
+<p align="justify">Well, this is a topic of confusion, at least for me. Since the served content is JavaScript, the preferred mime-type should be &ldquo;application/javascript&rdquo; or &ldquo;text/javascript&rdquo; or may be "application/json". In my demo, I&rsquo;ve changed the mime type of the above service to &ldquo;image/gif&rdquo;, &ldquo;text/css&rdquo; etc and the script still worked in all modern browsers without any warnings. Also, there are cases where browsers show a "<a href="http://stackoverflow.com/questions/5388893/ie9-json-data-do-you-want-to-open-or-save-this-file" target="_blank">save file</a>" dialog when wrong mime type is served. Enabling adhoc mime types has security concerns and <a href="http://www.json-p.org/" target="_blank">research is being done</a> in this area for standardizing mime-type. At least for now, &ldquo;application/javascript&rdquo; can be used and anyways <a href="http://www.html5rocks.com/en/tutorials/cors/" target="_blank">CORS</a> is the future, so no more content type worries.</p>
+<p align="justify">Hope the article provided useful info. Share your thoughts or discuss if you see the need for any corrections. Happy coding <img class="wlEmoticon wlEmoticon-smile" style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" src="http://novogeek.com/image.axd?picture=wlEmoticon-smile_1.png" alt="Smile" /></p>]]>
+      </content>
+      <post-name type="text"><![CDATA[A note on JSONP & misconceptions of Cross Origin AJAX]]></post-name>
+      <authors>
+        <author ref="novogeek" />
+      </authors>
+      <categories>
+        <category ref="4400789a-98e7-4e36-a791-f5ff167e803c" />
+        <category ref="0d726842-788c-431a-a903-27c3188a3a24" />
+      </categories>
+      <tags>
+        <tag ref="JavaScript" />
+        <tag ref="web security" />
+        <tag ref="browsers" />
+        <tag ref="html" />
+      </tags>
+    </post>
+    <post id="eb1fc799-4138-4320-b774-e8c4535c8f33" date-created="2012-06-30T20:41:00" date-modified="2012-07-01T21:58:43" approved="true" post-url="/post/Browser-Internals-Content-Isolation-with-Same-Origin-Policy.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Browser Internals: Content Isolation with Same Origin Policy-Microsoft UG Dev Day]]></title>
+      <content type="text">
+        <![CDATA[<p><a title="MUGH" href="http://blog.mugh.net/" target="_blank">Microsoft User Group Hyderabad (MUGH)</a>&nbsp;has organized <a title="MUGH June Developer Day 2012" href="http://blog.mugh.net/2012/06/mugh-june-developer-day-2012.html" target="_blank">Developer Day</a> at&nbsp;Broadridge Financial Solutions, Hyderabad this weekend. It was a half day event with very good line up of sessions and I had the opportunity to present on a very exciting topic-"Content Isolation with&nbsp;Same Origin Policy".</p>
+<div id="__ss_13506152" style="width: 425px;"><strong style="display:block;margin:12px 0 4px"><a title="Browser Internals-Same Origin Policy" href="http://www.slideshare.net/novogeek/browser-internalssame-origin-policy" target="_blank">Browser Internals-Same Origin Policy</a></strong> 
+<object id="__sse13506152" width="425" height="355">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=browserinternals-sameoriginpolicy-120701004438-phpapp01&amp;stripped_title=browser-internalssame-origin-policy&amp;userName=novogeek" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" />
+<param name="wmode" value="transparent" /> <embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=browserinternals-sameoriginpolicy-120701004438-phpapp01&amp;stripped_title=browser-internalssame-origin-policy&amp;userName=novogeek" name="__sse13506152" allowscriptaccess="always" allowfullscreen="true" wmode="transparent"></embed>
+</object>
+<div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/novogeek" target="_blank">Krishna T</a></div>
+</div>
+<p>"Same Origin Policy (SOP)" is one of the foundations of web security, which is built into web browsers. Web developers often do not understand this policy clearly and work with several misconceptions. The goal of this session is to show how important SOP is for the web, how it is bypassed using hacks and what HTML5 offers as a standard to overcome its limitations. Getting a full understanding of SOP isn't easy in a one hour session as it is relatively vast and complex. However, I have tried to simplify several ideas and put them in one place in the slides. Folks who couldn't attend the session will also be benefitted from the slides.</p>
+<p>Along with my talk, there was an interesting talk "One Service, Any Device, Any Platform-Web API" by fellow MVP <a href="http://theshravan.net" target="_blank">Shravan</a>&nbsp;and "A Lap around the new Windows Azure" by our super techie <a href="http://www.allthingsazure.com/" target="_blank">Phani</a>, cofounder of <a href="http://www.brainscale.com" target="_blank">BrainScale</a>. It is really motivating to see close to 100 techies coming to learn cutting edge stuff over a weekend. That was a great time spent! See you in the next tech event. Happy coding :)</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>]]>
+      </content>
+      <post-name type="text"><![CDATA[Browser Internals: Content Isolation with Same Origin Policy-Microsoft UG Dev Day]]></post-name>
+      <authors>
+        <author ref="novogeek" />
+      </authors>
+      <tags>
+        <tag ref="web security" />
+        <tag ref="tech events" />
+        <tag ref="HTML5" />
+        <tag ref="browsers" />
+      </tags>
+      <comments />
+      <trackbacks />
+    </post>
+    <post id="65891b96-ff5c-47e9-b612-03dc38bfe379" date-created="2012-06-26T08:06:00" date-modified="2012-06-26T19:38:15" approved="true" post-url="/post/HTML5-Sandbox-and-some-notes.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[HTML5 Sandbox and some notes]]></title>
+      <content type="text">
+        <![CDATA[<p align="justify">While building mashups, one of the primary goals is to securely isolate content coming from different origins. Generally, client side mashups are built in one of the two ways-(1) Embedding third party scripts in a web page (2) Loading remote content via iframes. Embedding scripts provides more interactivity but dilutes security since the scripts run with full privileges and could be malicious. Using iframes reduces interactivity but enhances security since they isolate content via same-origin-policy (Script inside a cross-origin iframe cannot access DOM of parent page).</p>
+<p align="justify">[Note: By chance if you are wondering why you should bother about mashups since you have never built them, you are mistaken. If you are embedding scripts for website analytics, social plugins (Like, Tweet, +1 etc.), advertisements, comments system (e.g., Disqus) and so on, you are already having a mashup!]</p>
+<p align="justify">Though iframes follow same-origin-policy and provide security in some sense, they are well known for their notorious activities like frame phishing, top window redirection, clickjacking, triggering drive by downloads etc. The &ldquo;sandbox&rdquo; attribute for iframes which is introduced in HTML5 promises to thwart the problems caused by iframes. Sandbox is currently supported only in Internet Explorer 10, Chrome 17+.</p>
+<p align="justify">A sandboxed iframe by default disables script, popups, form submissions, top navigation etc. Some of the restrictions can be relaxed by specifying space separated white list tokens (allow-forms, allow-scripts, allow-same-origin, allow-top-navigation).</p>
+<div id="codeSnippetWrapper" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; width: 97.5%; font-family: 'Courier New', courier, monospace; direction: ltr; height: 67px; max-height: 200px; font-size: 8pt; overflow: auto; cursor: text; border: silver 1px solid; padding: 4px;">
+<div>
+<pre id="codeSnippet" style="text-align: left; line-height: 12pt; background-color: #f4f4f4; margin: 0em; width: 100%; font-family: 'Courier New', courier, monospace; direction: ltr; color: black; font-size: 8pt; overflow: visible; border-style: none; padding: 0px;"><span style="color: #0000ff">&lt;</span><span style="color: #800000">iframe</span> <span style="color: #ff0000">sandbox</span> <span style="color: #ff0000">src</span><span style="color: #0000ff">="http://crossOrigin.com"</span><span style="color: #0000ff">&gt;&lt;/</span><span style="color: #800000">iframe</span><span style="color: #0000ff">&gt;</span><br /><span style="color: #0000ff">&lt;</span><span style="color: #800000">iframe</span> <span style="color: #ff0000">sandbox</span><span style="color: #0000ff">="allow-forms allow-scripts allow-same-origin allow-top-navigation"</span> <br />        <span style="color: #ff0000">src</span><span style="color: #0000ff">="page2.html"</span><span style="color: #0000ff">&gt;&lt;/</span><span style="color: #800000">iframe</span><span style="color: #0000ff">&gt;</span><br /><br /><br /></pre>
+</div>
+</div>
+<p align="justify">The details about sandbox and its white list tokens are discussed in several blogs, hence purposefully omitting it here. One interesting feature in sandbox is, when a sandboxed iframe loads content from the same origin as the parent document, the loaded content is still treated as if it originated from cross origin, thereby reducing its script privileges. This restriction can be removed by using the token &ldquo;allow-same-origin&rdquo;.</p>
+<p align="justify">Below are some of the cases where developers have to be cautious while using sandbox.</p>
+<p align="justify"><strong>Disabling Clickjacking Defense:</strong></p>
+<p align="justify">Even till date, several sites rely on JavaScript based frame busting defense to get rid of clickjacking (X-Frame-Options response header is a better defense, but unfortunately has lesser implementation). Such sites when embedded in a sandboxed iframe are greatly affected. Since sandbox disables JavaScript, the clickjacking protection used in the framed site is lost, hence back to square one!</p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong></strong></p>
+<p align="justify"><strong>Allow-scripts and Allow-same-origin combination:</strong></p>
+<p align="justify">This combination of tokens is a little tricky and could negate the effect&nbsp; of sandbox. The &ldquo;allow-scripts&rdquo; token enables JavaScript inside iframe and the &ldquo;allow-same-origin&rdquo; token will give the iframe complete privileges to access DOM of the parent. So if the embedded iframe has a vulnerable input field, script can be injected to remove the &ldquo;sandbox&rdquo; attribute altogether and then carry further exploits. Thus the security benefits of sandbox can be removed completely.</p>
+<p align="justify"><strong>Effect on Nested Browsing Contexts:</strong></p>
+<p align="justify">If a webpage has nested browsing contexts (page containing an iframe which in turn loads another iframe), then reasoning about the effect of sandbox tokens becomes complicated. Let us consider the scenario in the image on the right below-a parent page has an iframe to a page (Child1) with "allow-scripts" sandbox token. Child1 loads another iframe which points to Child2 having "allow-forms" token. At a quick glance, developers may conclude that the innermost page will have both forms and scripts allowed, but it is on the contrary. The inner page has everything disabled and for a good reason! The child1 frame has forms disabled and it will overwrite the "allow-forms" of Child2. Also, Child1 has scripts enabled but Child2 has them disabled. Hence it does not allow script execution. So it is advisable not to manipulate sandbox tokens dynamically, since it is difficult to reason about the after effects on sandbox restrictions.</p>
+<p align="justify"><strong><span style="text-decoration: underline;">DEMOS</span></strong>: Click the images for demos (Source at: <a href="https://github.com/novogeek/html5sandbox">https://github.com/novogeek/html5sandbox</a> )</p>
+<p align="right"><a href="http://novogeek.github.com/html5sandbox/" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="iframeSandbox1" src="/pics/articles/iframeSandbox1.jpg" border="0" alt="Sandbox demo 1" width="415" height="221" align="left" /></a></p>
+<p><a href="http://novogeek.github.com/html5sandbox/parentSandbox.html" target="_blank"><img style="background-image: none; border-right-width: 0px; margin: 0px 10px 0px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="iframeSandbox2" src="/pics/articles/iframeSandbox2.jpg" border="0" alt="Sandbox demo 2" width="344" height="254" align="left" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>In the first demo, there is an iframe with JS based clickjacking protection and by default sandbox option is selected. You can see the clickjacking defense by selecting &ldquo;normal frame&rdquo;. So this shows how sandbox defeats JS based clickjacking defense. Also in the same demo you can select &ldquo;allow-scripts&rdquo; and &ldquo;allow-same-origin&rdquo; optons and inject the snippets provided below the page into the XSS vulnerable page.</p>
+<p>In the second demo, inspect the iframes and load them independently in different windows and to see the effect of sandbox tokens in nested browsing contexts.</p>
+<p>Hope the article provided some useful information about HTML5 Iframe Sandbox and its secure usage. Feel free to get back with queries or please share aspects which you feel interesting about Sandbox. Happy coding <img class="wlEmoticon wlEmoticon-smile" style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" src="http://novogeek.com/image.axd?picture=wlEmoticon-smile.png" alt="Smile" /></p>]]>
+      </content>
+      <post-name type="text"><![CDATA[HTML5 Sandbox and some notes]]></post-name>
+      <authors>
+        <author ref="novogeek" />
+      </authors>
+      <categories>
+        <category ref="9dad2aee-0204-42b6-a86d-337ce1a571bb" />
+        <category ref="0d726842-788c-431a-a903-27c3188a3a24" />
+      </categories>
+      <tags>
+        <tag ref="HTML5" />
+        <tag ref="JavaScript" />
+        <tag ref="Security" />
+      </tags>
+    </post>
+    <post id="91ad2989-6c7e-4d7b-8229-6c8589664823" date-created="2012-05-22T19:54:00" date-modified="2012-07-01T21:03:18" approved="true" post-url="/post/Presentation-on-HTML5-Security-OWASP-Hyderabad.aspx" type="normal" hasexcerpt="false" views="0" is-published="True">
+      <title type="text"><![CDATA[Presentation on HTML5 Security-OWASP Hyderabad]]></title>
+      <content type="text">
+        <![CDATA[<p>Happy to say that I had the opportunity to present at <a title="OWASP" href="https://www.owasp.org" target="_blank">OWASP</a> Hyderabad chapter on "<a title="OWASP Hyderabad Tech Meet, May 2012" href="http://owasphydmay12.eventbrite.com" target="_blank">HTML5 Security</a>" on 19th May, 2012. The event had awesome audience from diverse backgrounds in security domain-security researchers, penetration testers, security consultants, few developers etc. The talk went for about 2.5 hours(yes!!) and was quite interactive. The audience were very patient, passionate and we had lots of discussions on several interesting topics.</p>
+<p>&nbsp;</p>
+<div id="__ss_13022470" style="width: 425px; text-align: center;"><strong style="display:block;margin:12px 0 4px"><a title="Html5 security" href="http://www.slideshare.net/novogeek/html5-security-13022470">Html5 security</a></strong> 
+<object id="__sse13022470" width="425" height="355">
+<param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=html5security-krishna-120522003138-phpapp02&amp;stripped_title=html5-security-13022470&amp;userName=novogeek" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" />
+<param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=html5security-krishna-120522003138-phpapp02&amp;stripped_title=html5-security-13022470&amp;userName=novogeek" wmode="transparent" allowfullscreen="true" allowscriptaccess="always" name="__sse13022470"></embed>
+</object>
+<div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/novogeek">Krishna T</a>.</div>
+</div>
+<p>I have built some cool demos for the presentation but the code is not well organized. I shall clean the code and upload to my <a href="http://github.com/novogeek" target="_blank">github account</a> shortly. I would be continuing this talk in next month's OWASP meet too.</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>
+<p>
+<script src="http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6="></script>
+</p>]]>
+      </content>
+      <post-name type="text"><![CDATA[Presentation on HTML5 Security-OWASP Hyderabad]]></post-name>
+      <authors>
+        <author ref="novogeek" />
+      </authors>
+      <categories>
+        <category ref="4400789a-98e7-4e36-a791-f5ff167e803c" />
+      </categories>
+      <tags>
+        <tag ref="html5" />
+        <tag ref="javascript" />
+        <tag ref="web security" />
+        <tag ref="tech events" />
+      </tags>
+    </post>
+  </posts>
+</blog>
